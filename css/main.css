@@ -3,9 +3,11 @@ header{
 }
 
 h1{
-    color: white;
+    color: #514AFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
 /* seach icon */
 .fa-search{
     color: white;
@@ -19,4 +21,83 @@ footer{
 .copyright{
     text-align: center;
 }
+/* images as links styled */
+.homelinks{
+    padding-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
+
+.tspic{
+padding-top: 15px;
+padding-left: 180px;
+}
+/* details buttons */
+#portfolio{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+
+}
+#Home{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+}
+#Portfolio{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+}
+#About{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+}
+#Services{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+}
+#Contact{
+    font-size: 25px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #514AFF;
+    color: white;
+    border: solid black;
+}
+.btnrow{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.logo{
+float: center;
+display: inline;
+}
+
+.portr1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.portr2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

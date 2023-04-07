@@ -83,21 +83,35 @@ padding-left: 180px;
     color: white;
     border: solid black;
 }
-.btnrow{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-}
 .logo{
 float: center;
 display: inline;
 }
-
-.portr1{
+.btnrow{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 155px;
+}
+.portr1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
 }
 
 .portr2{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.portr3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.portr4{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+.exlogo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    margin-left: 120px;
 }

@@ -13,6 +13,10 @@ h1{
     color: white;
 }
 
+.fa-search:active{
+    opacity: 0.5;
+}
+
 footer{
     background-color: #514AFF;
     color: white;
@@ -27,7 +31,6 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
-
 
 .tspic{
 padding-top: 15px;
@@ -92,6 +95,9 @@ display: inline;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-left: 155px;
 }
+
+
+/* portfolio rows */
 .portr1{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
@@ -110,8 +116,11 @@ display: inline;
     display: grid;
     grid-template-columns: 1fr 1fr ;
 }
+
+/* about page experience row */
 .exlogo{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     margin-left: 120px;
 }
+

@@ -124,3 +124,7 @@ display: inline;
     margin-left: 120px;
 }
 
+/* searchbar */
+.search{
+    float: right ;
+}

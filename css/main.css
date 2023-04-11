@@ -94,9 +94,11 @@ padding-left: 180px;
     color: white;
     border: solid black;
 }
+/* nav logo */
 .logo{
-float: center;
-display: inline;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 .btnrow{
     display: grid;
@@ -135,7 +137,9 @@ justify-items: center;
 
 /* searchbar */
 .search{
-    float: right ;
+    align-items: flex-start;
+    justify-content: flex-end;
+    display: flex;
 }
 
 .socialtag{
@@ -146,3 +150,12 @@ align-items: center;
 justify-items: center;
 }
 
+/* navbar socials */
+
+.navsocial{
+    color: white;
+    float: left;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}

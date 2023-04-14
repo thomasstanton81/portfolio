@@ -1,1 +1,2 @@
 # portfolio
+This website was a harder task to complete than I thought. During planning in my User Experience class we were told to make sure the website we design is something we can code, with this in mind I tried to make sure I could replicate everything. Unfortunately I overestimated some of the things in the other project but I also thought of new creative design features and functionality to my page. I think overall I stuck to the basics of my original planned website and during this design process I've improved it from its original ideas. 
